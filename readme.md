@@ -83,10 +83,7 @@ jupyter notebook
 - Add regional sub-analysis for large countries
 
 ## Contact
-For any questions or feedback about this project, please contact me at [your.lindahmukami796@gmail.com](mailto:your.lindahmukami796@gmail.com).
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+For any questions or feedback about this project, please contact me at [lindahmukami796@gmail.com](mailto:lindahmukami796@gmail.com).
 
 ---
 *This project was created for educational purposes as part of a data analysis portfolio.*
